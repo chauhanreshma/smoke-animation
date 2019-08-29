@@ -1,0 +1,23 @@
+html,body{
+	height: 100%;
+	width: 100%;
+	margin:0;
+	padding: 0;
+}
+section{
+	height: 100%;
+	background: #000;
+}
+h1{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 50%;
+/*	transform: translateY(-50%);*/
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	font-size: 5em;
+	letter-spacing: 0.4em;
+	font-family: sans-serif;
+}
